@@ -1,0 +1,14 @@
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\bin\Debug\netcoreapp2.1\POCmXparser.deps.json
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\bin\Debug\netcoreapp2.1\POCmXparser.runtimeconfig.json
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\bin\Debug\netcoreapp2.1\POCmXparser.runtimeconfig.dev.json
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\bin\Debug\netcoreapp2.1\POCmXparser.dll
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\bin\Debug\netcoreapp2.1\POCmXparser.pdb
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\obj\Debug\netcoreapp2.1\POCmXparser.csprojAssemblyReference.cache
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\obj\Debug\netcoreapp2.1\POCmXparser.csproj.CoreCompileInputs.cache
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\obj\Debug\netcoreapp2.1\POCmXparser.RazorAssemblyInfo.cache
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\obj\Debug\netcoreapp2.1\POCmXparser.RazorAssemblyInfo.cs
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\obj\Debug\netcoreapp2.1\POCmXparser.AssemblyInfoInputs.cache
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\obj\Debug\netcoreapp2.1\POCmXparser.AssemblyInfo.cs
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\obj\Debug\netcoreapp2.1\POCmXparser.RazorTargetAssemblyInfo.cache
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\obj\Debug\netcoreapp2.1\POCmXparser.dll
+F:\Drive\Projetos\DB1\POCmXparser\POCmXparser\POCmXparser\obj\Debug\netcoreapp2.1\POCmXparser.pdb
